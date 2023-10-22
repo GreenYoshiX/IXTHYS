@@ -16,8 +16,7 @@ Gospel-Games is a project intended for web, mobile applications, game console an
   * Initial Prototyping Phase
  
 # License
-All Rights Reserved
-
+MIT
 # Acknowledgements
 * [HAND BEHOLD](Handbehold.co)
 * [Who is Jesus?](WhoIsJesus.study)

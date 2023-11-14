@@ -1,7 +1,7 @@
-# Gospel-Games
+# IXTHYS
 "Commit your works to Yahweh And your plans will be established. -Proverbs 16:3"
 
-Gospel-Games is a project intended for web, mobile applications, game console and physical arcade use. It will be deployed as a 2D Adventure/RPG set in various historic locations and times.
+IXTHYS is a project intended for web, mobile applications, game console and physical arcade use. It will be deployed as a 2D Adventure/RPG set in various historic locations and times.
 
 # Build / Dependencies
 * Software - TBD - Current considerations include Python/Pygame and Godot Engine.

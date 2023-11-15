@@ -18,7 +18,7 @@ IXTHYS is a project intended for web, mobile applications, game console and phys
 # License
 MIT
 # Acknowledgements
-* [HAND BEHOLD](www.Handbehold.co)
-* [Who is Jesus?](www.WhoIsJesus.study)
+* [HAND BEHOLD](http://www.Handbehold.co)
+* [Who is Jesus?](http://www.WhoIsJesus.study)
 
  
